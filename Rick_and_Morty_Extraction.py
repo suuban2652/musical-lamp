@@ -30,7 +30,7 @@ def save_to_s3(df, bucket, table_name):
 
 def lambda_handler(event, context):
     print("Starting Extraction....")
-    bucket = "de-masterclass" # s3 bucket name
+    bucket = "de-masterclass-luul" # s3 bucket name
 
     tables = {
         "Character": "https://rickandmortyapi.com/api/character",
