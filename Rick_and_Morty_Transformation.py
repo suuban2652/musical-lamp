@@ -6,7 +6,7 @@ from io import StringIO
 import s3_file_operations as s3_ops
 
 def lambda_handler(event, context):
-    bucket = "de-masterclass"  # S3 bucket name
+    bucket = "de-masterclass-luul"  # S3 bucket name
 
     # Read data from S3
     print("Reading Character data from S3...")
