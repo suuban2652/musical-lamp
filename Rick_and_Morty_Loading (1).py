@@ -7,7 +7,7 @@ rds_host = "rick-and-morty-****************8.eu-west-1.rds.amazonaws.com" # Repl
 rds_username = "admin"
 rds_user_pwd = "******"  # Replace with your password
 rds_db_name = "rick_and_morty"
-bucket_name = "de-masterclass"   # Replace with your s3 Bucket name
+bucket_name = "de-masterclass-luul"   # Replace with your s3 Bucket name
 
 def lambda_handler(event, context):
     # Read transformed data from S3
