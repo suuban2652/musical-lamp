@@ -22,7 +22,7 @@ The data model of the final dataset includes four tables:
 4. **Character_Episodes**: Relationship between characters and episodes.
 
 Data model diagram:
-![Data Model Diagram](.Rick&Morty_ERD.pngI)
+.(Rick&Morty_ERD.pngI)
 
 ## ETL Process
 
