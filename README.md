@@ -12,7 +12,7 @@ This project demonstrates how to build an ETL (Extract, Transform, Load) pipelin
 
 ## Architecture Diagram
 The ETL pipeline is illustrated in the diagram below:
-![Data Flow Diagram](./diagrams/data_flow_diagram.png)
+![Data Flow Diagram](https://github.com/suuban2652/musical-lamp/blob/main/Flowcharts.png)
 
 ## Data Model
 The data model of the final dataset includes four tables:
